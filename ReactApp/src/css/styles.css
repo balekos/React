@@ -1,0 +1,25 @@
+body {
+    margin:0
+}
+
+header {
+    
+        background:#03a9f4;
+        text-align: center;
+        font-size:50px;
+        font-family:Impact;
+        color:#fff;
+    }   
+logo {
+        color:#fff;
+        text-align:center;
+        font-size:40px;
+        font-family:Impact;
+    }
+
+header input {
+    font-size: 20px;
+    background-color:rgba(56, 184, 24, 0.067);
+    margin: 20px 0;
+    text-align: 40px;
+}

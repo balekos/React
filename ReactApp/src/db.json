@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title": "New ES6 upgrades man",
+        "feed": "Set up what the heck"
+    },
+    {
+        "id":2,
+        "title": "There goes other news and stuff",
+        "feed": "READ it before its 2 late"
+    },
+    {
+        "id":3,
+        "title": "Fresh news for you",
+        "feed": "Read the latest News Online now!"
+    }
+]
